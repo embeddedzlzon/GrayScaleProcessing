@@ -1,0 +1,3 @@
+﻿  소스.cpp
+C:\Users\gkfgj\source\repos\Project2\Project2\소스.cpp(35,10): warning C4101: 'tmpPath' :참조되지 않은 지역 변수입니다.
+  Project2.vcxproj -> C:\Users\gkfgj\source\repos\Project2\Debug\Project2.exe
