@@ -19,7 +19,7 @@
 
 - **영상 처리 프로그램 구조도 작성**
 
-![Untitled](%E1%84%83%E1%85%B5%E1%84%8C%E1%85%B5%E1%84%90%E1%85%A5%E1%86%AF%20%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%20%E1%84%8E%E1%85%A5%E1%84%85%E1%85%B5%20using%20C%20b05da5eec4ca444aa542b4e55bffaeaa/Untitled.png)
+![Untitled](https://github.com/embeddedzlzon/GrayScaleProcessing/blob/master/Export-bf06f91d-d345-41d1-867e-5ef69a4394a2/%EB%94%94%EC%A7%80%ED%84%B8%20%EC%98%81%EC%83%81%20%EC%B2%98%EB%A6%AC%20using%20C%20b05da5eec4ca444aa542b4e55bffaeaa/Untitled%201.png)
 
 # 2. 영상 처리 기능 구현 및 결과
 
